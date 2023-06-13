@@ -8,3 +8,6 @@ Green Destinations is a well known travel agency. The HR Director has recently n
 She would like to know what the attrition rate is (% of people who have left).
 
 She would also like to know if factors like age, years at the company and income play a part indetermining if people will leave or not.
+
+
+![image](https://github.com/MinakshiDhhote/Green-Destinations-HR-Analytics-Dashboard/assets/116186767/9157c1fd-1ac9-427f-a851-e189e040d763)
